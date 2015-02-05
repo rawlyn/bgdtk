@@ -1,0 +1,5 @@
+C:\CodeRepository\bgdtk\Bgdtk\BgdtkTests\bin\Debug\BgdtkTests.dll
+C:\CodeRepository\bgdtk\Bgdtk\BgdtkTests\bin\Debug\BgdtkTests.pdb
+C:\CodeRepository\bgdtk\Bgdtk\BgdtkTests\obj\Debug\BgdtkTests.csprojResolveAssemblyReference.cache
+C:\CodeRepository\bgdtk\Bgdtk\BgdtkTests\obj\Debug\BgdtkTests.dll
+C:\CodeRepository\bgdtk\Bgdtk\BgdtkTests\obj\Debug\BgdtkTests.pdb

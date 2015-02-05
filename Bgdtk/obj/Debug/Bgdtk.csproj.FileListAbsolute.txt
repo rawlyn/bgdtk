@@ -1,0 +1,6 @@
+C:\CodeRepository\bgdtk\Bgdtk\bin\Debug\Bgdtk.exe.config
+C:\CodeRepository\bgdtk\Bgdtk\bin\Debug\Bgdtk.exe
+C:\CodeRepository\bgdtk\Bgdtk\bin\Debug\Bgdtk.pdb
+C:\CodeRepository\bgdtk\Bgdtk\obj\Debug\Bgdtk.csprojResolveAssemblyReference.cache
+C:\CodeRepository\bgdtk\Bgdtk\obj\Debug\Bgdtk.exe
+C:\CodeRepository\bgdtk\Bgdtk\obj\Debug\Bgdtk.pdb

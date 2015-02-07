@@ -1,13 +1,13 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace BgdtkTests
+namespace SnakesAndLaddersTests
 {
     [TestClass]
-    public class BoardTests
+    public class UnitTest1
     {
         [TestMethod]
-        public void Board_with_no_cells_added_returns_()
+        public void TestMethod1()
         {
         }
     }
